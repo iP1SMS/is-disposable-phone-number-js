@@ -1,6 +1,6 @@
 {
   "name": "@ip1sms/is-disposable-phone-number",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Determine if a phone number is a disposable phone number. You can use it to detect or block disposable phone numbers in your signup process.",
   "main": "index.js",
   "scripts": {},
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/iP1SMS/is-disposable-phonenumber#readme",
   "dependencies": {
-    "@ip1sms/disposable-phone-numbers": "^2.0.0"
+    "@ip1sms/disposable-phone-numbers": "^2.1.44"
   }
 }
