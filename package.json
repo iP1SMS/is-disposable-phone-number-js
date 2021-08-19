@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/iP1SMS/is-disposable-phonenumber#readme",
   "dependencies": {
-    "@ip1sms/disposable-phone-numbers": "^2.0.0"
+    "@ip1sms/disposable-phone-numbers": "^2.1.44"
   }
 }
