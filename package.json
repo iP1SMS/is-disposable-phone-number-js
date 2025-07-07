@@ -19,7 +19,7 @@
     "url": "https://github.com/iP1SMS/is-disposable-phonenumber/issues"
   },
   "homepage": "https://github.com/iP1SMS/is-disposable-phonenumber#readme",
-  "dependencies": {
-    "@ip1sms/disposable-phone-numbers": "^2.1.44"
+  "peerDependencies": {
+    "@ip1sms/disposable-phone-numbers": "^2.1.0"
   }
 }
