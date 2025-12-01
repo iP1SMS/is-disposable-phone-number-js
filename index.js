@@ -1,4 +1,4 @@
-import blacklist from '@ip1sms/disposable-phone-numbers';
+import blacklist from '@ip1sms/disposable-phone-numbers' with { type: "json" };
 
 /**
  * Expose `isDisposablePhoneNumber`.
